@@ -1,2 +1,0 @@
-Updated
-Hello C-lang
